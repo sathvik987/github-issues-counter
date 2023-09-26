@@ -1,0 +1,13 @@
+.repo-input {
+    width: 20em;
+}
+
+.issue-list {
+    display: flex;
+    justify-content: center;
+}
+
+.status-div {
+    display: flex;
+    justify-content: space-evenly;
+}
